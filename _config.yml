@@ -1,0 +1,17 @@
+# Site settings
+title: Geoinquietos Valencia
+email: geoinquietosvlc@gmail.com
+author: Geoinquietos VLC
+description: "Comunidad de entusiastas de la información geográfica en Valencia."
+baseurl: ""
+url: "/"
+google_analytics:
+animated: false
+show_related_posts: true
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+sass:
+  compressed: true

@@ -1,0 +1,15 @@
+---
+# The scss file which include files from _sass/
+---
+
+@charset "utf-8";
+
+@import "basscss";
+@import "main";
+@import "solarized-dark";
+
+
+img.comic{
+	width: 80%;
+	margin: 10px auto;
+}
