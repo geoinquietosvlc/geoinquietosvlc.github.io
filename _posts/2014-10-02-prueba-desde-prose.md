@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Prueba desde Prose
 date: "2014-10-02 08:32"
