@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prueba desde Prose
-date: "2014-10-02 08:32"
+date: 2014-10-02 08:32
 summary: Primer post del blog de Geoinquietos Valencia desde Prose
 categories: meta
 ---
