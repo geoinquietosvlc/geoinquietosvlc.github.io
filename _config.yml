@@ -4,7 +4,7 @@ email: geoinquietosvlc@gmail.com
 author: Geoinquietos VLC
 description: "Comunidad de entusiastas de la información geográfica en Valencia."
 baseurl: ""
-url: "/"
+url: "http://geoinquietosvlc.github.io"
 google_analytics:
 animated: false
 show_related_posts: true
