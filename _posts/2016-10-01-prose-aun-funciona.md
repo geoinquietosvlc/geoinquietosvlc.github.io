@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+summary: Test
+categories: meta
 ---
 ## A New Post
 
