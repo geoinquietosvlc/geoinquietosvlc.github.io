@@ -9,9 +9,22 @@ google_analytics:
 animated: false
 show_related_posts: true
 
-# Build settings
-markdown: kramdown
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/geoinquietosvlc/geoinquietosvlc.github.io/
+
 permalink: pretty
 paginate: 3
 sass:
-  compressed: true
+  sass_dir:          _sass
+  style:            :compressed
+
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      type: post
